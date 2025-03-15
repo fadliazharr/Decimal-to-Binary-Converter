@@ -4,7 +4,6 @@ You can run the converter in the link below:
 https://fadliazharr.github.io/Decimal-to-Binary-Converter/
 ---
 
-# Decimal to Binary Converter  
 
 ## Overview  
 
